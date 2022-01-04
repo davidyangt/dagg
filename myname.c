@@ -3,5 +3,5 @@ myname.c
 
 main() {
 
-    printf("姚\n");
+    printf("楊\n");
 }
